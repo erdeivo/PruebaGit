@@ -1,0 +1,13 @@
+git init (inicializar git)
+
+git add nombrearchivo (agreagar archivo para hacer segumiento)
+git add (hace seguimiento a todos los archivos)
+
+git commit -m "Desc. del cambio" (almacena el ajuste)
+git commit -am "Desc. del cambio" (hace commit y add a la vez)
+
+git status -s (ver los archivos en la carpeta)
+
+git log --oneline (muestra las modificaciones guardadas)
+
+git reset --hard códigodelarchivoadevolverse (se pierden los ajustes)
