@@ -13,3 +13,7 @@ git log --oneline (muestra las modificaciones guardadas)
 
 git reset --hard códigodelarchivoadevolverse (se pierden los ajustes)
 
+git remote add origin Urldelrepositorio --- Ejemplo: https://github.com/erdeivo/PruebaGit.git (subir repositorio a github)
+git push -u origin main 
+
+git pull (traerse los ajustes desde gitub)
